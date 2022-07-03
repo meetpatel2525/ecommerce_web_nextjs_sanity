@@ -1,0 +1,5 @@
+// for use jsx react js sentax import this 
+
+{
+  "presets": ["@babel/preset-react"]
+}
